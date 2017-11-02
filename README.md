@@ -2,7 +2,7 @@
 
 ## English
 
-Frontend project for a academy online
+Frontend project for an academy online
 
 ## Spanish
 
